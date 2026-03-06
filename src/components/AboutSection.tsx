@@ -101,7 +101,7 @@ const AboutSection = () => {
                 </p>
               </div>
               <p className="text-sm text-secondary-foreground">
-                Mobile and Web Application with Scalable Architecture
+                Mobile and Web Application Development with Scalable Architecture
               </p>
             </div>
           </motion.div>
