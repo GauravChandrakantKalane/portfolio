@@ -26,8 +26,7 @@ const AboutSection = () => {
             className="space-y-5 text-muted-foreground leading-relaxed"
           >
             <p>
-              I'm a full-stack developer with a strong focus on frontend and
-              backend systems, holding a{" "}
+              I'm a full-stack developer with a strong focus on Mobile and Web Development, holding a{" "}
               <span className="text-foreground font-medium">
                 Master's in Computer Science (MScCS)
               </span>
